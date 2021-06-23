@@ -1,0 +1,14 @@
+.active1{
+  font-size: 16px;
+  transition: all 250ms linear;
+}
+
+.pie{
+  height: 250px;
+}
+.v-enter,.v-leave-to{
+  opacity: 0;
+}
+.v-enter-active,.v-leave-active{
+  transition: all 0.2s linear;
+}

@@ -1,0 +1,15 @@
+.login{
+  margin: 0 auto;
+  padding: 0 25%;
+}
+
+.login form input{
+  margin: 20px auto;
+}
+
+.v-enter,.v-leave-to{
+  opacity: 0;
+}
+.v-enter-active,.v-leave-active{
+  transition: all 0.1s linear;
+}
